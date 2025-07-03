@@ -1,0 +1,353 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/globo_s.jpg" group-title="Canais: Abertos",Globo BA
+https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/globo_s.jpg" group-title="Canais: Abertos", Globo RJ
+http://45.235.0.78/GLOBORJ-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/globo_s.jpg" group-title="Canais: Abertos",Globo Minas 
+http://45.235.0.78/GLOBOMINAS-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais: Abertos",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Logotipo_da_TV_Verdes_Mares_2018.png" group-title="Canais: Abertos",TV Verdes Mares
+http://45.235.0.78/TVVERDESMARES-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/B/bandeirantes-band-logo-56FE915446-seeklogo.com.png" group-title="Canais: Abertos",Band
+http://45.235.0.78/BAND-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-768x460.png" group-title="Canais: Infantil",Cartoon Network 
+https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/12/Retro-Cartoon-250x250.png" group-title="Canais: Infantil",Retrô Cartoon
+http://stmv1.srvif.com/retrotv/retrotv/chunklist_w597307572.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://marcas--logos-net.cdn.ampproject.org/i/s/marcas-logos.net/wp-content/uploads/2020/03/Nickelodeon-Logo-720x405.png" group-title="Canais: Infantil",Nickelodeon 
+https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/12/cartoonito-768x432.png" group-title="Canais: Infantil",Cartoonito
+http://45.235.0.78/Boomerang-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_disney_s.png" group-title="Canais: Infantil",Disney Channel
+http://45.235.0.78/DISNEY-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-kids_s.png" group-title="Canais: Infantil",Discovery Kids
+http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="Canais: Infantil",Nick Jr
+http://45.235.0.78/NICKJR-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-768x269.png" group-title="Canais: Infantil",GLOOB
+http://45.235.0.78/GLOOB-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282006-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb.png" group-title="Canais: Infantil",Baby TV
+http://45.235.0.78/BABYTV-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_tooncast_m.png" group-title="Canais: Infantil",Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/elementor/thumbs/zoomoo-kids-logo-pvs8j7rq83z0xn3z0q1smrx0w0vxvsxam1dbb00g78.png" group-title="Canais: Infantil",ZooMoo Kids
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos--world-net.cdn.ampproject.org/ii/w560/s/logos-world.net/wp-content/uploads/2023/04/Animal-Planet-Logo-500x281.png" group-title="Canais: Documentário",Animal Planet
+http://170.82.200.38:8080/animal_planet/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="Canais: Documentário",Discovery Turbo
+http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/366/430/png-clipart-logo-investigation-discovery-discovery-channel-high-definition-television-television-channel-design-text-poster.png" group-title="Canais: Documentário",Discovery ID
+http://45.235.0.78/DISCOVERYID-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1-768x771.png" group-title="Canais: Documentário",Discovery Channel
+http://45.235.0.78/DISCOVERY-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/312/97BBF5AE04BB637CECB452EB5C0259CD/discoveryworld.png" group-title="Canais: Documentário",Discovery World
+http://45.235.0.78/DISC.WORLD-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais: Documentário",Discovery Science
+http://45.235.0.78/DISC.SCIENCE-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais: Documentário",Discovery Theater
+http://45.235.0.78/DISCTHEATER-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/national-geographic-channel-logo-DCE048FFC0-seeklogo.com.png" group-title="Canais: Documentário",Nat Geo
+http://45.235.0.78/NATGEO-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/H/history-logo-4EA08324CE-seeklogo.com.png" group-title="Canais: Documentário",History
+http://45.235.0.78/HISTORY-HD/index.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNs/Xsv5YhI6Z6A/s1600/H2_1.png" group-title="Canais: Documentário",History 2
+http://45.235.0.78/H2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="Canais: Documentário",TravelBox
+http://45.235.0.78/TRAVELBOX-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ww2.freelogovectors.net/wp-content/uploads/2020/03/e-entertainment-television-logo.png" group-title="Canais: Documentário",E!
+http://45.235.0.78/E!-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/P/paramount-channel-latin-america-logo-180D249ED9-seeklogo.com.png" group-title="Canais: Filmes/Séries",Paramount Network
+http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-768x122.png" group-title="Canais: Premiere",Premiere Clubes
+http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-768x122.png" group-title="Canais: Premiere",Premiere 2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-768x122.png" group-title="Canais: Premiere",Premiere 3
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-768x122.png" group-title="Canais: Premiere",Premiere 4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-Canal-Premiere-Png-768x768.png" group-title="Canais: Esporte",Premiere 5
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-Canal-Premiere-Png-768x768.png" group-title="Canais: Esporte",Premiere 6
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-Canal-Premiere-Png-768x768.png" group-title="Canais: Esporte",Premiere 7
+
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="Canais: Esporte",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="Canais: Esporte",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="Canais: Esporte",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="Canais: Esporte",TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="Canais: Esporte",TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/36998.png" group-title="Canais: Esporte",Band Sports
+http://45.235.0.78/BANDSPORTS-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais: Esporte",
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8-768x204.png" group-title="Canais: Esporte",Sport TV
+http://45.235.0.78/SPORTV-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8-768x204.png" group-title="Canais: Esporte",Sport TV 2
+http://45.235.0.78/SPORTV2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8-768x204.png" group-title="Canais: Esporte",Sport TV 3
+http://45.235.0.78/SPORTV3-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logospng.org/download/canal-combate/logo-canal-combate-256.png" group-title="Canais: Esporte",Combate
+http://45.235.0.78/COMBATE-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Canais: Esporte",ESPN 
+http://45.235.0.78/ESPNBRASIL-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="Canais: Esporte",ESPN 2
+http://45.235.0.78/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport.png" group-title="Canais: Esporte",ESPN 3
+http://45.235.0.78/ESPN2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png," group-title="Canais: Esporte",ESPN 4
+http://45.235.0.78/FOXSPORTS-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png" group-title="Canais: Esporte",ESPN Extra
+http://45.235.0.78/ESPNEXTRA-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="Canais: Esporte",Fox Esporte 2
+http://45.235.0.78/FOXSPORTS2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" group-title="Canais: Filmes/Séries",TNT
+http://45.235.0.78/TNT-HD/index.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png" group-title="Canais: Filmes/Séries",TNT Séries
+http://45.235.0.78/TNTSERIES-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="Canais: Filmes/Séries",Sony Channel
+http://45.235.0.78/SONY-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bv0MLFU.png" group-title="Canais: Filmes/Séries",Sony Movies
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="Canais: Filmes/Séries",Star Channel
+http://45.235.0.78/FOX-HD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/A/axn-2015-logo-FA60668D48-seeklogo.com.png" group-title="Canais: Filmes/Séries",AXN
+http://45.235.0.78/AXN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="Canais: Filmes/Séries",Space
+http://45.235.0.78/SPACE-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/telecine-action-logo-835D0F697C-seeklogo.com.png" group-title="Canais: Filmes/Séries",Telecine Action
+http://45.235.0.78/TCACTION-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/telecine-premium-logo-BA15FCE269-seeklogo.com.png" group-title="Canais: Filmes/Séries",Telecine Premium
+http://45.235.0.78/TCPREMIUM-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/telecine-pipoca-logo-F43EC6EB3B-seeklogo.com.png" group-title="Canais: Filmes/Séries",Telecine Pipoca
+http://45.235.0.78/TCPIPOCA-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/telecine-touch-logo-EE683B2ABD-seeklogo.com.png" group-title="Canais: Filmes/Séries",Telecine Touch
+http://45.235.0.78/TELECINETOUCH-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/telecine-fun-logo-34043B8988-seeklogo.com.png" group-title="Canais: Filmes/Séries",Telecine Fun
+http://45.235.0.78/TCFUN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="Canais: Filmes/Séries",Telecine Cult
+http://45.235.0.78/TCCULT-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg" group-title="Canais: Filmes/Séries",HBO
+http://45.235.0.78/HBO-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" group-title="Canais: Filmes/Séries",HBO 2
+
+http://45.235.0.78/HBO2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png" group-title="Canais: Filmes/Séries",HBO Plus
+http://45.235.0.78/HBOPLUS-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png" group-title="Canais: Filmes/Séries",HBO Family
+http://45.235.0.78/HBOFAMILY-HD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="Canais: Filmes/Séries",HBO POP
+http://45.235.0.78/MAXUP-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="Canais: Filmes/Séries",HBO Xtreme
+http://45.235.0.78/MAXPRIME-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="Canais: Filmes/Séries",Cimemax
+http://45.235.0.78/CINEMAX-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/F/fx-logo-2E9E8D108E-seeklogo.com.png" group-title="Canais: Filmes/Séries",FX
+http://45.235.0.78/FX-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/C/canal-brasil-logo-A12559C8B5-seeklogo.com.png" group-title="Canais: Filmes/Séries",Canal Brasil
+http://45.235.0.78/CANALBRASIL-HD/index.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png" group-title="Canais: Filmes/Séries",Syfy
+http://45.235.0.78/SYFY-HD/index.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais: Filmes/Séries",Megapix
+http://45.235.0.78/MEGAPIX-HD/index.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://uploaddeimagens.com.br/images/002/242/394/full/universal-tv.png" group-title="Canais: Filmes/Séries",Universal Tv
+http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/W/warner-tv-italy-logo-01F60752BC-seeklogo.com.png" group-title="Canais: Filmes/Séries",Warner Tv
+http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais: Filmes/Séries",Comedy Central
+
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais: Filmes/Séries",Studio Universal
+http://45.235.0.78/STUDIOUNIVERSAL-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://temporalcerebral.com.br/wp-content/uploads/2015/12/redesign-novo-logo-canal-tcm-turner-classic-movies-1.png" group-title="Canais: Filmes/Séries",TCM 
+http://45.235.0.78/TCM-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Canais: Filmes/Séries",A&E
+http://45.235.0.78/A&E-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-500x281.png" group-title="Canais: Variedades",Food Network
+http://45.235.0.78/FoodNetwork-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/mtv-logo-1-768x508.png" group-title="Canais: Variedades",MTV
+http://45.235.0.78/MTV-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/L/lifetime-logo-F87151725C-seeklogo.com.png" group-title="Canais: Variedades",Lifetime
+http://45.235.0.78/LIFETIME-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/C/canal-viva-logo-1D0DEE916C-seeklogo.com.png" group-title="Canais: Variedades",VIVA
+http://45.235.0.78/VIVA-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/C/comedy-central-2018-logo-B22BF964D3-seeklogo.com.png" group-title="Canais: Variedades",Comedy Central
+http://45.235.0.78/COMEDYCENTR -HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="Canais: Variedades",BIS
+http://45.235.0.78/BIS-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-9-768x583.png" group-title="Canais: Variedades",Multishow
+http://45.235.0.78/MULTISHOW-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/HGTV-Logo-500x281.png" group-title="Canais: Variedades",HGTV
+http://45.235.0.78/DISC.CIVI.-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="Canais: Variedades",OFF
+http://45.235.0.78/OFF-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/L3MdMpK.png" group-title="Canais: 24Horas",JETSON TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/MOWXnxd.png" group-title="Canais: 24Horas",BOB ESPONJA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/C5qWG1y.png" group-title="Canais: 24Horas",OGGY E AS BARATAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/LiSnCh7.png" group-title="Canais: 24Horas",OS PADRINHOS MAGICOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/4Y8zjpm.png" group-title="Canais: 24Horas",ROCKET POWER
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+EXTINF:-1 tvg-logo="https://imgur.com/IsA6nhP.png" group-title="Canais: 24Horas", A VIDA MODERNA DE ROCKO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8GvhfOr.png" group-title="Canais: 24Horas", RUGRATS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9Na8UpY.png" group-title="Canais: 24Horas", AS AVENTURAS DE JACKIE CHAN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ANjsVWA.png" group-title="Canais: 24Horas", MORANGUINHO
+https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/muj2sTq.png" group-title="Canais: 24Horas", AS TARTARUGAS NINJAS
+https://i.mjh.nz/PlutoTV/63dd5c904e83e700088fb68a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="Canais: 24Horas", TOON GOOGLE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="Canais: 24Horas", CAVERNA DO DRAGAO
+https://ythlsgo.onrender.com/video/k--MD867Tm0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="Canais: 24Horas", PEPPA PIG
+https://ythlsgo.onrender.com/video/Pj9YnrOxo-w.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/g7RCejA.png" group-title="Canais: 24Horas", COCORICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VRxtpeS.png" group-title="Canais: 24Horas", BABYFIRST
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bRDW0yb.png" group-title="Canais: 24Horas", JUNIOR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/J5Mtfaw.png" group-title="Canais: 24Horas", AS PISTAS DE BLUE 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tkxMhCr.png" group-title="Canais: 24Horas", O REINO INFANTIL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wR2hB9b.png" group-title="Canais: 24Horas", BABY SHARK TV
+https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fHutaGN.png" group-title="Canais: 24Horas", KIDS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q7Jadd8.png" group-title="Canais: 24Horas", PATRULHA CANINA
+https://i.mjh.nz/PlutoTV/6495c7ad115d060008bf6df0-alt.m3u8
+
+EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="Canais: 24Horas", SOUTH PARK
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ce6da250-de55-11eb-891d-f5c10c1a4818&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b969c849-ee2f-4f54-9563-53225c56a2be&userId=&serverSideAds=true
+
+
+
